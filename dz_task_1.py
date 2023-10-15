@@ -26,4 +26,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-# Seminar_15/Task6.py -p hw15_utils ../task1  - запуск из командной строки
